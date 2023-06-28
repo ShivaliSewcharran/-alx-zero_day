@@ -1,3 +1,4 @@
 alx-pre_course/bash/alx
 #!/bin/bash
-ech alx
+echo "ALX School" 
+
